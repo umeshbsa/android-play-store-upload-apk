@@ -105,7 +105,7 @@ android {
         }
     }
 
-    def baseUrl = '"https"//app.com';
+    def baseUrl = '"https://app.com/"';
     productFlavors {
         prod {
             applicationId appApplicationId
